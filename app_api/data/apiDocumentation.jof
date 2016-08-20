@@ -1,0 +1,30 @@
+#REST API Documentation
+
+##Training
+
+The training is much better.  The main URL is [test](http://www.steve.jo).
+
+###GET
+
+    GET /admin/api/v1/levels
+
+***
+
+```javascript
+{
+  error: errormessage,
+  results: results
+}
+```
+
+> ## Blockquote test
+> 
+> Still a blockquote
+
+
+| Property | Description |
+| --- | --- |
+| id |The unique id.... |
+| location | The location |
+| favourite | Stephen Rye is a seriously sexy hotty |
+
